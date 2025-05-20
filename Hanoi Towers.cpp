@@ -2,7 +2,6 @@
 #include <windows.h>
 #include <conio.h>
 #include <list>
-#include <vector>
 
 std::list<int> stick1;
 std::list<int> stick2;
